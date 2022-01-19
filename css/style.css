@@ -106,12 +106,8 @@ h3 {
 #about{
   display:flex;
   flex-flow:row wrap;
-  min-height:100vh;
 }
 
-#aboutLeft, #aboutRight{
-  width:46%;
-  margin:2%;
-  display:flex;
-  justify-content: center;
+#about img{
+  margin:20px auto;
 }
