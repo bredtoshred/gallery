@@ -8,6 +8,23 @@ body {
   width: 90%;
 }
 
+nav{
+  padding:20px 0;
+}
+
+nav a{
+  color: #666;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-decoration:none;
+}
+
+a{
+  text-decoration: none;
+}
+
 .header {
   margin-top: 124px;
   margin-bottom: 32px;
