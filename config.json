@@ -1,142 +1,720 @@
 {
-  "Skate": [
+  "ACTION": [
     {
-      "height": 3000,
-      "compressed_path": "./photos/Skate/sawyerLook.min.jpg",
-      "width": 2000,
+      "height": 800,
+      "compressed_path": "./photos/ACTION/spiceyIverZenAir_4x6.min.jpg",
+      "width": 533,
       "compressed": false,
-      "placeholder_path": "./photos/Skate/sawyerLook.placeholder.jpg",
-      "path": "./photos/Skate/sawyerLook.jpg"
+      "placeholder_path": "./photos/ACTION/spiceyIverZenAir_4x6.placeholder.jpg",
+      "path": "./photos/ACTION/spiceyIverZenAir_4x6.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Skate/sawyerKickPick.min.jpg",
-      "width": 2000,
+      "height": 800,
+      "compressed_path": "./photos/ACTION/jackChain50VerticalFish.min.jpg",
+      "width": 533,
       "compressed": false,
-      "placeholder_path": "./photos/Skate/sawyerKickPick.placeholder.jpg",
-      "path": "./photos/Skate/sawyerKickPick.jpg"
+      "placeholder_path": "./photos/ACTION/jackChain50VerticalFish.placeholder.jpg",
+      "path": "./photos/ACTION/jackChain50VerticalFish.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Skate/sawyerReivechOneFootTailBlock.min.jpg",
-      "width": 2000,
+      "height": 800,
+      "compressed_path": "./photos/ACTION/charlieMartinBonelss.min.jpg",
+      "width": 533,
       "compressed": false,
-      "placeholder_path": "./photos/Skate/sawyerReivechOneFootTailBlock.placeholder.jpg",
-      "path": "./photos/Skate/sawyerReivechOneFootTailBlock.jpg"
+      "placeholder_path": "./photos/ACTION/charlieMartinBonelss.placeholder.jpg",
+      "path": "./photos/ACTION/charlieMartinBonelss.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Skate/sawyerRoofGap180_1.min.jpg",
-      "width": 2000,
+      "height": 533,
+      "compressed_path": "./photos/ACTION/KIFcrewWheelie.min.jpg",
+      "width": 800,
       "compressed": false,
-      "placeholder_path": "./photos/Skate/sawyerRoofGap180_1.placeholder.jpg",
-      "path": "./photos/Skate/sawyerRoofGap180_1.jpg"
+      "placeholder_path": "./photos/ACTION/KIFcrewWheelie.placeholder.jpg",
+      "path": "./photos/ACTION/KIFcrewWheelie.jpg"
     },
     {
-      "height": 5472,
-      "compressed_path": "./photos/Skate/benny_05.min.jpg",
-      "width": 3648,
+      "height": 533,
+      "compressed_path": "./photos/ACTION/flyShootFinal_09.min.jpg",
+      "width": 800,
       "compressed": false,
-      "placeholder_path": "./photos/Skate/benny_05.placeholder.jpg",
-      "path": "./photos/Skate/benny_05.jpg"
+      "placeholder_path": "./photos/ACTION/flyShootFinal_09.placeholder.jpg",
+      "path": "./photos/ACTION/flyShootFinal_09.jpg"
     },
     {
-      "height": 5472,
-      "compressed_path": "./photos/Skate/aidanFullerBackSmith.min.jpg",
-      "width": 3648,
+      "height": 800,
+      "compressed_path": "./photos/ACTION/audreyCowgirl.min.jpg",
+      "width": 533,
       "compressed": false,
-      "placeholder_path": "./photos/Skate/aidanFullerBackSmith.placeholder.jpg",
-      "path": "./photos/Skate/aidanFullerBackSmith.jpg"
+      "placeholder_path": "./photos/ACTION/audreyCowgirl.placeholder.jpg",
+      "path": "./photos/ACTION/audreyCowgirl.jpg"
     },
     {
-      "height": 5472,
-      "compressed_path": "./photos/Skate/scottStevensWax.min.jpg",
-      "width": 3648,
+      "height": 800,
+      "compressed_path": "./photos/ACTION/jWorthAlleyOopFrontLip.min.jpg",
+      "width": 533,
       "compressed": false,
-      "placeholder_path": "./photos/Skate/scottStevensWax.placeholder.jpg",
-      "path": "./photos/Skate/scottStevensWax.jpg"
+      "placeholder_path": "./photos/ACTION/jWorthAlleyOopFrontLip.placeholder.jpg",
+      "path": "./photos/ACTION/jWorthAlleyOopFrontLip.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Skate/ladyFSI.min.jpg",
-      "width": 2000,
+      "height": 800,
+      "compressed_path": "./photos/ACTION/jWorthSlobAir.min.jpg",
+      "width": 533,
       "compressed": false,
-      "placeholder_path": "./photos/Skate/ladyFSI.placeholder.jpg",
-      "path": "./photos/Skate/ladyFSI.jpg"
+      "placeholder_path": "./photos/ACTION/jWorthSlobAir.placeholder.jpg",
+      "path": "./photos/ACTION/jWorthSlobAir.jpg"
     },
     {
-      "height": 5472,
-      "compressed_path": "./photos/Skate/aidanFullerPortrait.min.jpg",
-      "width": 3648,
+      "height": 800,
+      "compressed_path": "./photos/ACTION/quinnKickflipFarTall.min.jpg",
+      "width": 533,
       "compressed": false,
-      "placeholder_path": "./photos/Skate/aidanFullerPortrait.placeholder.jpg",
-      "path": "./photos/Skate/aidanFullerPortrait.jpg"
+      "placeholder_path": "./photos/ACTION/quinnKickflipFarTall.placeholder.jpg",
+      "path": "./photos/ACTION/quinnKickflipFarTall.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/alyssaClifDrop1_philMcKenzie_3-1-21.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/alyssaClifDrop1_philMcKenzie_3-1-21.placeholder.jpg",
+      "path": "./photos/ACTION/alyssaClifDrop1_philMcKenzie_3-1-21.jpg"
+    },
+    {
+      "height": 450,
+      "compressed_path": "./photos/ACTION/dannyDavisAndrecht.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/dannyDavisAndrecht.placeholder.jpg",
+      "path": "./photos/ACTION/dannyDavisAndrecht.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/kaylJohnsonRideOver.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/kaylJohnsonRideOver.placeholder.jpg",
+      "path": "./photos/ACTION/kaylJohnsonRideOver.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/ACTION/crewFlatirons.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/crewFlatirons.placeholder.jpg",
+      "path": "./photos/ACTION/crewFlatirons.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/ACTION/justinPhippsShifty.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/justinPhippsShifty.placeholder.jpg",
+      "path": "./photos/ACTION/justinPhippsShifty.jpg"
+    },
+    {
+      "height": 450,
+      "compressed_path": "./photos/ACTION/kirkFlatironsLongExposure.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/kirkFlatironsLongExposure.placeholder.jpg",
+      "path": "./photos/ACTION/kirkFlatironsLongExposure.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/facettest.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/facettest.placeholder.jpg",
+      "path": "./photos/ACTION/facettest.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/sawyerRoofGap180_1.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/sawyerRoofGap180_1.placeholder.jpg",
+      "path": "./photos/ACTION/sawyerRoofGap180_1.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/iveyCartwheel.min.jpg",
+      "width": 534,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/iveyCartwheel.placeholder.jpg",
+      "path": "./photos/ACTION/iveyCartwheel.jpg"
+    },
+    {
+      "height": 545,
+      "compressed_path": "./photos/ACTION/frontPeaks.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/frontPeaks.placeholder.jpg",
+      "path": "./photos/ACTION/frontPeaks.jpg"
+    },
+    {
+      "height": 445,
+      "compressed_path": "./photos/ACTION/aceFSAtrain.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/aceFSAtrain.placeholder.jpg",
+      "path": "./photos/ACTION/aceFSAtrain.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/austinSquireNoseGrabTailPress.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/austinSquireNoseGrabTailPress.placeholder.jpg",
+      "path": "./photos/ACTION/austinSquireNoseGrabTailPress.jpg"
+    },
+    {
+      "height": 393,
+      "compressed_path": "./photos/ACTION/charlieMartinOllieNorth.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/charlieMartinOllieNorth.placeholder.jpg",
+      "path": "./photos/ACTION/charlieMartinOllieNorth.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/ACTION/aceWatchJohn.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/aceWatchJohn.placeholder.jpg",
+      "path": "./photos/ACTION/aceWatchJohn.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/maxHofertLaybackDrop.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/maxHofertLaybackDrop.placeholder.jpg",
+      "path": "./photos/ACTION/maxHofertLaybackDrop.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/sawyerQuinnCarve.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/sawyerQuinnCarve.placeholder.jpg",
+      "path": "./photos/ACTION/sawyerQuinnCarve.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/cobie1.min.jpg",
+      "width": 534,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/cobie1.placeholder.jpg",
+      "path": "./photos/ACTION/cobie1.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/grayMesaTailslide.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/grayMesaTailslide.placeholder.jpg",
+      "path": "./photos/ACTION/grayMesaTailslide.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/jasonLorenzTableWheelie.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/jasonLorenzTableWheelie.placeholder.jpg",
+      "path": "./photos/ACTION/jasonLorenzTableWheelie.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/elijahAkerlyOllie_SFCA.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/elijahAkerlyOllie_SFCA.placeholder.jpg",
+      "path": "./photos/ACTION/elijahAkerlyOllie_SFCA.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/grantGillerTailPress.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/grantGillerTailPress.placeholder.jpg",
+      "path": "./photos/ACTION/grantGillerTailPress.jpg"
+    },
+    {
+      "height": 479,
+      "compressed_path": "./photos/ACTION/elijahBackNoseblunt.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/elijahBackNoseblunt.placeholder.jpg",
+      "path": "./photos/ACTION/elijahBackNoseblunt.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/gw690ii_p160_May21_7.min.jpg",
+      "width": 601,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/gw690ii_p160_May21_7.placeholder.jpg",
+      "path": "./photos/ACTION/gw690ii_p160_May21_7.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/ACTION/steveMullFS180.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/steveMullFS180.placeholder.jpg",
+      "path": "./photos/ACTION/steveMullFS180.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/ACTION/elorieCorner.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/ACTION/elorieCorner.placeholder.jpg",
+      "path": "./photos/ACTION/elorieCorner.jpg"
     }
   ],
-  "Snow": [
+  "PRODUCT": [
     {
-      "height": 8192,
-      "compressed_path": "./photos/Snow/adamAutumn2.min.jpg",
-      "width": 5464,
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/ARTILECT_A2.min.jpg",
+      "width": 534,
       "compressed": false,
-      "placeholder_path": "./photos/Snow/adamAutumn2.placeholder.jpg",
-      "path": "./photos/Snow/adamAutumn2.jpg"
+      "placeholder_path": "./photos/PRODUCT/ARTILECT_A2.placeholder.jpg",
+      "path": "./photos/PRODUCT/ARTILECT_A2.jpg"
     },
     {
-      "height": 2048,
-      "compressed_path": "./photos/Snow/alyssaUpsideDown_philMcKenzie_3-1-21.min.jpg",
-      "width": 1365,
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/silverStick1_philMckenzie.min.jpg",
+      "width": 640,
       "compressed": false,
-      "placeholder_path": "./photos/Snow/alyssaUpsideDown_philMcKenzie_3-1-21.placeholder.jpg",
-      "path": "./photos/Snow/alyssaUpsideDown_philMcKenzie_3-1-21.jpg"
+      "placeholder_path": "./photos/PRODUCT/silverStick1_philMckenzie.placeholder.jpg",
+      "path": "./photos/PRODUCT/silverStick1_philMckenzie.jpg"
     },
     {
-      "height": 8192,
-      "compressed_path": "./photos/Snow/dainaBerthoudPass.min.jpg",
-      "width": 5464,
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/focus_4.min.jpg",
+      "width": 533,
       "compressed": false,
-      "placeholder_path": "./photos/Snow/dainaBerthoudPass.placeholder.jpg",
-      "path": "./photos/Snow/dainaBerthoudPass.jpg"
+      "placeholder_path": "./photos/PRODUCT/focus_4.placeholder.jpg",
+      "path": "./photos/PRODUCT/focus_4.jpg"
     },
     {
-      "height": 2048,
-      "compressed_path": "./photos/Snow/alyssaClifDrop1_philMcKenzie_3-1-21.min.jpg",
-      "width": 1365,
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/ARTILECT_A1.min.jpg",
+      "width": 533,
       "compressed": false,
-      "placeholder_path": "./photos/Snow/alyssaClifDrop1_philMcKenzie_3-1-21.placeholder.jpg",
-      "path": "./photos/Snow/alyssaClifDrop1_philMcKenzie_3-1-21.jpg"
+      "placeholder_path": "./photos/PRODUCT/ARTILECT_A1.placeholder.jpg",
+      "path": "./photos/PRODUCT/ARTILECT_A1.jpg"
     },
     {
-      "height": 8100,
-      "compressed_path": "./photos/Snow/kirkFlatironsLongExposure.min.jpg",
-      "width": 14400,
+      "height": 533,
+      "compressed_path": "./photos/PRODUCT/peachLemonadeFlyGear.min.jpg",
+      "width": 800,
       "compressed": false,
-      "placeholder_path": "./photos/Snow/kirkFlatironsLongExposure.placeholder.jpg",
-      "path": "./photos/Snow/kirkFlatironsLongExposure.jpg"
+      "placeholder_path": "./photos/PRODUCT/peachLemonadeFlyGear.placeholder.jpg",
+      "path": "./photos/PRODUCT/peachLemonadeFlyGear.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Snow/deepDaze_1.min.jpg",
-      "width": 3000,
+      "height": 533,
+      "compressed_path": "./photos/PRODUCT/riverCrack.min.jpg",
+      "width": 800,
       "compressed": false,
-      "placeholder_path": "./photos/Snow/deepDaze_1.placeholder.jpg",
-      "path": "./photos/Snow/deepDaze_1.jpg"
+      "placeholder_path": "./photos/PRODUCT/riverCrack.placeholder.jpg",
+      "path": "./photos/PRODUCT/riverCrack.jpg"
     },
     {
-      "height": 2048,
-      "compressed_path": "./photos/Snow/shawnaMayo1_PhilMcKenzie_3-12-21_northstar.min.jpg",
-      "width": 1365,
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/energy1_philMcKenzie_March21.min.jpg",
+      "width": 533,
       "compressed": false,
-      "placeholder_path": "./photos/Snow/shawnaMayo1_PhilMcKenzie_3-12-21_northstar.placeholder.jpg",
-      "path": "./photos/Snow/shawnaMayo1_PhilMcKenzie_3-12-21_northstar.jpg"
+      "placeholder_path": "./photos/PRODUCT/energy1_philMcKenzie_March21.placeholder.jpg",
+      "path": "./photos/PRODUCT/energy1_philMcKenzie_March21.jpg"
     },
     {
-      "height": 8192,
-      "compressed_path": "./photos/Snow/austinBerthoud.min.jpg",
-      "width": 5464,
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/cameraElectorWaterfall.min.jpg",
+      "width": 533,
       "compressed": false,
-      "placeholder_path": "./photos/Snow/austinBerthoud.placeholder.jpg",
-      "path": "./photos/Snow/austinBerthoud.jpg"
+      "placeholder_path": "./photos/PRODUCT/cameraElectorWaterfall.placeholder.jpg",
+      "path": "./photos/PRODUCT/cameraElectorWaterfall.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/auroraProduct_2.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/auroraProduct_2.placeholder.jpg",
+      "path": "./photos/PRODUCT/auroraProduct_2.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/cord6tan.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/cord6tan.placeholder.jpg",
+      "path": "./photos/PRODUCT/cord6tan.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/calm_4.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/calm_4.placeholder.jpg",
+      "path": "./photos/PRODUCT/calm_4.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/flannelCap1.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/flannelCap1.placeholder.jpg",
+      "path": "./photos/PRODUCT/flannelCap1.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/PRODUCT/10barrelPlateau_06.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/10barrelPlateau_06.placeholder.jpg",
+      "path": "./photos/PRODUCT/10barrelPlateau_06.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/protoSynthesisLake.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/protoSynthesisLake.placeholder.jpg",
+      "path": "./photos/PRODUCT/protoSynthesisLake.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/silverStick3_philMckenzie.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/silverStick3_philMckenzie.placeholder.jpg",
+      "path": "./photos/PRODUCT/silverStick3_philMckenzie.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/eddieOrange.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/eddieOrange.placeholder.jpg",
+      "path": "./photos/PRODUCT/eddieOrange.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/mjRamen.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/mjRamen.placeholder.jpg",
+      "path": "./photos/PRODUCT/mjRamen.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/PRODUCT/driveSidecloseUp1.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/driveSidecloseUp1.placeholder.jpg",
+      "path": "./photos/PRODUCT/driveSidecloseUp1.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/electroRiver.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/electroRiver.placeholder.jpg",
+      "path": "./photos/PRODUCT/electroRiver.jpg"
+    },
+    {
+      "height": 450,
+      "compressed_path": "./photos/PRODUCT/boardLineupMulti.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/boardLineupMulti.placeholder.jpg",
+      "path": "./photos/PRODUCT/boardLineupMulti.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/olympusStylus120.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/olympusStylus120.placeholder.jpg",
+      "path": "./photos/PRODUCT/olympusStylus120.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/lomoFisheye.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/lomoFisheye.placeholder.jpg",
+      "path": "./photos/PRODUCT/lomoFisheye.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/PRODUCT/flyShootFinal_06.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/flyShootFinal_06.placeholder.jpg",
+      "path": "./photos/PRODUCT/flyShootFinal_06.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/ARTILECT_B1.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/ARTILECT_B1.placeholder.jpg",
+      "path": "./photos/PRODUCT/ARTILECT_B1.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/snowmeltJuly4_1.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/snowmeltJuly4_1.placeholder.jpg",
+      "path": "./photos/PRODUCT/snowmeltJuly4_1.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/PRODUCT/ARTILECT_B2.min.jpg",
+      "width": 534,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/ARTILECT_B2.placeholder.jpg",
+      "path": "./photos/PRODUCT/ARTILECT_B2.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/PRODUCT/gloveCloseUp.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/PRODUCT/gloveCloseUp.placeholder.jpg",
+      "path": "./photos/PRODUCT/gloveCloseUp.jpg"
+    }
+  ],
+  "LIFESTYLE": [
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/buckets.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/buckets.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/buckets.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/Mckenzie004384-R2-057-27.min.jpg",
+      "width": 538,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/Mckenzie004384-R2-057-27.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/Mckenzie004384-R2-057-27.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/LIFESTYLE/roofHang3.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/roofHang3.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/roofHang3.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/LIFESTYLE/10barrelPlateau_01.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/10barrelPlateau_01.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/10barrelPlateau_01.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/dainaBerthoudPass.min.jpg",
+      "width": 534,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/dainaBerthoudPass.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/dainaBerthoudPass.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/sawyerDirtboardSunsetPortrait.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/sawyerDirtboardSunsetPortrait.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/sawyerDirtboardSunsetPortrait.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/10barrelPlateau_04.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/10barrelPlateau_04.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/10barrelPlateau_04.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/Mckenzie004384-R2-065-31.min.jpg",
+      "width": 538,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/Mckenzie004384-R2-065-31.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/Mckenzie004384-R2-065-31.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/LIFESTYLE/apresLot_02.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/apresLot_02.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/apresLot_02.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/eloriePortrait2.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/eloriePortrait2.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/eloriePortrait2.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/LIFESTYLE/jworthPumpSmoke.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/jworthPumpSmoke.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/jworthPumpSmoke.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/adamAutumn2_1.min.jpg",
+      "width": 534,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/adamAutumn2_1.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/adamAutumn2_1.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/iveyPortrait.min.jpg",
+      "width": 534,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/iveyPortrait.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/iveyPortrait.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/jWorthPoolLook.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/jWorthPoolLook.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/jWorthPoolLook.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/jahPortraitLightRays.min.jpg",
+      "width": 564,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/jahPortraitLightRays.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/jahPortraitLightRays.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/L1SU_09_philMcKenzie.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/L1SU_09_philMcKenzie.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/L1SU_09_philMcKenzie.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/playingHookie1.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/playingHookie1.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/playingHookie1.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/benny_02.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/benny_02.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/benny_02.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/benny_05.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/benny_05.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/benny_05.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/LIFESTYLE/kirkTeareDarkHike.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/kirkTeareDarkHike.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/kirkTeareDarkHike.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/auroraLifestyle1crop.min.jpg",
+      "width": 640,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/auroraLifestyle1crop.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/auroraLifestyle1crop.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/jackPushCrete.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/jackPushCrete.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/jackPushCrete.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/ryanCake1.min.jpg",
+      "width": 534,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/ryanCake1.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/ryanCake1.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/scottStevensWax.min.jpg",
+      "width": 533,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/scottStevensWax.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/scottStevensWax.jpg"
+    },
+    {
+      "height": 800,
+      "compressed_path": "./photos/LIFESTYLE/cobie4.min.jpg",
+      "width": 534,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/cobie4.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/cobie4.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/LIFESTYLE/vinnyFlares.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/vinnyFlares.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/vinnyFlares.jpg"
+    },
+    {
+      "height": 533,
+      "compressed_path": "./photos/LIFESTYLE/loveLight.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/loveLight.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/loveLight.jpg"
+    },
+    {
+      "height": 466,
+      "compressed_path": "./photos/LIFESTYLE/localeWindow.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/LIFESTYLE/localeWindow.placeholder.jpg",
+      "path": "./photos/LIFESTYLE/localeWindow.jpg"
     }
   ]
 }
