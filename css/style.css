@@ -116,3 +116,12 @@ h3 {
   margin: 20px auto;
   max-width: 70ch;
 }
+
+.selected{
+  color: black !important;
+  border-bottom: black solid 2px;
+}
+
+#gallery h3{
+  display:none;
+}

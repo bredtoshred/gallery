@@ -5,6 +5,9 @@
   <head>
     <title>{{ site.title }}</title>
     {% include favicon.html %}
+    <style>
+      section #ACTION, section #PRODUCT{display:none}
+    </style>
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/zoom.css">
@@ -17,14 +20,11 @@
       <h2 class="header"><a href="index.html">{{ site.full_name }}</a></h2>
       <nav>
         <a id="actionNavLink" href="index.html">ACTION</a>
-        <a id="lifestyleNavLink" href="lifestyle.html">LIFESTYLE</a>
+        <a id="lifestyleNavLink" class="selected" href="lifestyle.html">LIFESTYLE</a>
         <a id="productNavLink" href="product.html">PRODUCT</a>
-        <a id="aboutNavLink" class="selected" href="about.html">About</a>
+        <a id="aboutNavLink" href="about.html">About</a>
       </nav>
-      <div id="about">
-          <img src="img/me.png">
-          <p>Phil is a Boulder Colorado based photographer specializing in action sports and outdoor lifestyle content.</p>
-          <p>Etiam quis eros massa. Nam tincidunt odio turpis. Vestibulum placerat nulla at varius vestibulum. Etiam mi enim, commodo at imperdiet nec, vestibulum sit amet felis. Phasellus vel mattis est, non iaculis sapien. Donec erat enim, fermentum a diam sit amet, faucibus feugiat neque. Praesent laoreet eros venenatis, pellentesque nibh a, condimentum magna. Maecenas tincidunt luctus tempor.</p>
+      <div id="gallery">
       </div>
     </div>
     <div class="footer">

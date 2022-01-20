@@ -5,6 +5,9 @@
   <head>
     <title>{{ site.title }}</title>
     {% include favicon.html %}
+    <style>
+      section #LIFESTYLE, section #PRODUCT{display:none}
+    </style>
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/zoom.css">
@@ -16,10 +19,10 @@
       <!--------------- YOUR NAME OVER HERE -------------->
       <h2 class="header"><a href="index.html">{{ site.full_name }}</a></h2>
       <nav>
-        <a href="index.html/#ACTION">ACTION</a>
-        <a href="index.html/#LIFESTYLE">LIFESTYLE</a>
-        <a href="index.html/#PRODUCT">PRODUCT</a>
-        <a href="about.html">About</a>
+        <a id="actionNavLink" class="selected" href="index.html">ACTION</a>
+        <a id="lifestyleNavLink" href="lifestyle.html">LIFESTYLE</a>
+        <a id="productNavLink" href="product.html">PRODUCT</a>
+        <a id="aboutNavLink" href="about.html">About</a>
       </nav>
       <div id="gallery">
       </div>
