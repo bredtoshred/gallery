@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lato', 'Helvetica', 'Verdana', sans-serif;
+  font-family: 'Helvetica', 'Verdana', sans-serif;
 }
 
 #container {
@@ -110,4 +110,9 @@ h3 {
 
 #about img{
   margin:20px auto;
+}
+
+#about p {
+  margin: 20px auto;
+  max-width: 70ch;
 }
